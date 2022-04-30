@@ -4,7 +4,7 @@
 
 Esse é um repositório referente ao projeto do módulo de Flexbox CSS do Bootcamp Spread da DIO.
 
-Aqui eu fiz a interface de login do Instagram. 
+Aqui eu fiz uma nova interface de login do Instagram. 
 
 ### Requisitos para este projeto:
 
